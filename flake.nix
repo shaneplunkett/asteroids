@@ -18,7 +18,6 @@
           buildInputs = [
             pkgs.python3
             pkgs.uv
-            pkgs.python313Packages.python-lsp-server
             pkgs.ruff
             pkgs.python313Packages.pygame
           ];
